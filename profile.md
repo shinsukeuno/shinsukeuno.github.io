@@ -9,7 +9,7 @@
 
 ## Award
 1. Feb. 2021 : The University of Tokyo, WINGS-FoPM Program, AY2020 Qualifying Examination Excellence Award
-2. Mar. 2019 : 東京大学 平成30年度 理学部学修奨励賞受賞
+2. Mar. 2019 : 東京大学 平成30年度 理学部学修奨励賞
 
 ## Contact
 - Email: uno \_at\_ ioa.s.u-tokyo.ac.jp
