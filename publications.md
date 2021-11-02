@@ -1,6 +1,6 @@
 # Publications
 ## Refereed Paper
-1. **Shinsuke Uno**, Tatsuya Takekoshi, Tai Oshima, Keisuke Yoshioka, Kah Wuy Chin, Kotaro Kohno, "Demonstration of wideband metal mesh filters for submillimeter astrophysics using flexible printed circuits", *Applied Optics*, Vol. 59, Issue 13, p.p.4143-4150 (2020) [ADS](https://ui.adsabs.harvard.edu/abs/2020ApOpt..59.4143U/abstract) [astro-ph](https://arxiv.org/abs/2003.13240) [DOI](https://doi.org/10.1364/AO.389605)
+1. **Shinsuke Uno**, Tatsuya Takekoshi, Tai Oshima, Keisuke Yoshioka, Kah Wuy Chin, Kotaro Kohno, "Demonstration of wideband metal mesh filters for submillimeter astrophysics using flexible printed circuits", *Applied Optics*, Vol. 59, Issue 13, p.p.4143-4150 (2020) <a href="https://ui.adsabs.harvard.edu/abs/2020ApOpt..59.4143U/abstract" target="_blank">ADS</a> <a href="https://arxiv.org/abs/2003.13240" target="_blank">astro-ph</a> <a href="https://doi.org/10.1364/AO.389605" target="_blank">DOI</a>
 
 ## Proceedings (non-refereed)
 1. 井上修平, 大島泰, 陳家偉, **宇野慎介**, 丹羽佑果, 竹腰達哉, 長沼桐葉, 「広帯域ミリ波サブミリ波検出器のための平面Magic Tの開発」, 第40回天文学に関する技術シンポジウム集録, 2021年1月
@@ -38,7 +38,7 @@
 1. **宇野慎介**, 竹腰達哉, 河野孝太郎, 陳家偉, 大島泰, 吉岡佳輔, 「FPC製造技術を用いたミリ波サブミリ波帯周波数選択フィルターの開発」, 宇宙電波懇談会シンポジウム2018「電波天文学の将来サイエンス」, 国立天文台三鷹, 2018年12月 (ポスター講演)
 
 ## Grant
-1. 科研費 特別研究員奨励費 21J20742 「サブミリ波帯多色観測による銀河団プラズマダイナミクスの解明」2021-2023年度 [KAKEN](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J20742/)
+1. 科研費 特別研究員奨励費 21J20742 「サブミリ波帯多色観測による銀河団プラズマダイナミクスの解明」2021-2023年度 <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J20742/" target="_blank">KAKEN</a>
 
 ## Thesis
 1. 宇野慎介, 「ミリ波サブミリ波帯メタルメッシュフィルターの開発」, 東京大学大学院理学系研究科天文学専攻修士論文, 2021年
