@@ -1,6 +1,8 @@
 ### Shinsuke UNO (宇野 慎介) 
 Ph.D. student, Institute of Astronomy, The University of Tokyo
 
+![May-chan](May-chan.JPG)
+
 [Research](https://shinsukeuno.github.io/research.html)
 
 [Publications](https://shinsukeuno.github.io/publications.html)
