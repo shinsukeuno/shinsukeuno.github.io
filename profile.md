@@ -14,6 +14,7 @@
 ## Contact
 - Email: uno \_at\_ ioa.s.u-tokyo.ac.jp
 - Address: Institute of Astronomy, Graduate School of Science, The University of Tokyo, 2-21-1 Osawa, Mitaka, Tokyo 181-0015, Japan
+- Twitter: <a href="https://twitter.com/astronatsuno" target="_block">@astronatsuno</a>
 
 <a href="https://orcid.org/0000-0003-2545-5901" target="_blank">ORCID:0000-0003-2545-5901</a>
 
