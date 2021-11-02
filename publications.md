@@ -2,7 +2,7 @@
 ## Refereed Paper
 1. **Shinsuke Uno**, Tatsuya Takekoshi, Tai Oshima, Keisuke Yoshioka, Kah Wuy Chin, Kotaro Kohno, "Demonstration of wideband metal mesh filters for submillimeter astrophysics using flexible printed circuits", *Applied Optics*, Vol. 59, Issue 13, p.p.4143-4150 (2020) [ADS](https://ui.adsabs.harvard.edu/abs/2020ApOpt..59.4143U/abstract) [astro-ph](https://arxiv.org/abs/2003.13240) [DOI](https://doi.org/10.1364/AO.389605)
 
-## Proceegings (non-refereed)
+## Proceedings (non-refereed)
 1. 井上修平, 大島泰, 陳家偉, **宇野慎介**, 丹羽佑果, 竹腰達哉, 長沼桐葉, 「広帯域ミリ波サブミリ波検出器のための平面Magic Tの開発」, 第40回天文学に関する技術シンポジウム集録, 2021年1月
 2. **宇野慎介**, 大島泰, 竹腰達哉, 陳家偉, 井上修平, 長沼桐葉, 丹羽佑果, 「平面型直交モード変換器の帯域幅を制限する高次モード発生の解析」, 第40回天文学に関する技術シンポジウム集録, 2021年1月
 3. 長沼桐葉, 吉岡佳輔, 酒井剛, 大島泰, 竹腰達哉, 丹羽佑果, **宇野慎介**, 陳家偉, 井上修平, 「多色サブミリ波カメラ用多段型多孔質膜赤外線フィルターの開発」, 第40回天文学に関する技術シンポジウム集録, 2021年1月
