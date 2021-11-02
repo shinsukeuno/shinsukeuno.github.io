@@ -12,6 +12,7 @@
 ## International Conferences
 ### 2019
 1. **Shinsuke Uno**, Tatsuya Takekoshi, Kah Wuy Chin, Kotaro Kohno, Tai Oshima, Keisuke Yoshioka, "Development of mm/submm Frequency Selective Filters made with FPC Fabrication Technology", 30th International Symposium on Space Terahertz Technology, Göteborg, Sweden, April 2019 (poster)
+
 ### 2018
 1. **Shinsuke Uno**, Tatsuya Takekoshi, Kah Wuy Chin, Kotaro Kohno, Tai Oshima, Keisuke Yoshioka, "Development of mm/submm Frequency Selective Filters made with FPC Fabrication Technology", ALMA/45m/ASTE Users Meeting 2018, Mitaka, December 2018 (poster)
 2. **Shinsuke Uno**, Tatsuya Takekoshi, Kah Wuy Chin, Kotaro Kohno, Tai Oshima, Keisuke Yoshioka, "Development of mm/submm Frequency Selective Filters made with FPC Fabrication Technology", 19th East Asia Submillimeter-wave Receiver Technology Workshop and 5th Riken-NICT Joint Workshop on Terahertz Technology, Kwansei Gakuin University, December 2018 (poster)
@@ -22,14 +23,17 @@
 2. **宇野慎介**, 陳家偉, 井上修平, 河野孝太郎, 大島泰, 竹腰達哉, 長沼桐葉, 丹羽佑果, 「多色サブミリ波カメラ用超広帯域準光学バンドパスフィルターの開発」, 日本天文学会2021年秋季年会, オンライン, 2021年9月 (ポスター&ショートプレゼンテーション)
 3. **宇野慎介**, 大島泰, 竹腰達哉, 陳家偉, 井上修平, 長沼桐葉, 丹羽佑果, 「サブミリ波帯多色カメラ用光学バンドパスフィルターの開発」, 第21回ミリ波サブミリ波受信機ワークショップ, オンライン, 2021年3月 (口頭講演)
 4. **宇野慎介**, 大島泰, 竹腰達哉, 陳家偉, 井上修平, 長沼桐葉, 丹羽佑果, 「平面型直交モード変換器の帯域幅を制限する高次モード発生の解析」, 第40回天文学に関する技術シンポジウム, オンライン, 2021年1月29日 (口頭講演)
+
 ### 2020
 1. **宇野慎介**, 竹腰達哉, 陳家偉, 河野孝太郎, 大島泰, 吉岡佳輔, 「サブミリ波帯多色カメラ用光学バンドパスフィルターの開発」, Nobeyama Science Workshop 2020, オンライン, 2020年9月 (口頭講演)
+
 ### 2019
 1. **宇野慎介**, 陳家偉, 竹腰達哉, 河野孝太郎, 大島泰, 吉岡佳輔, 「多色連続波カメラ用FPC広帯域バンドパスフィルターの多段パターン最適化」, 日本天文学会2019年秋季年会, 熊本大学, 2019年9月 (ポスター&ショートプレゼンテーション)
 2. **宇野慎介**, 河野孝太郎, 竹腰達哉, 陳家偉, 大島泰, 吉岡佳輔, 「フレキシブルプリント基板製造技術を用いたミリ波サブミリ波帯周波数選択フィルターの開発」, 装置開発成果報告会, 野辺山(国立天文台), 2019年8月 (口頭講演)
 3. **宇野慎介**, 竹腰達哉, 河野孝太郎, 陳家偉, 大島泰, 吉岡佳輔, 「FPC製造技術を用いたミリ波サブミリ波帯周波数選択フィルターの開発」, 日本天文学会2019年春季年会, 法政大学, 2019年3月 (口頭講演)
 4. **Shinsuke Uno**, Tatsuya Takekoshi, Kah Wuy Chin, Kotaro Kohno, Tai Oshima, Keisuke Yoshioka, "Development of mm/submm Frequency Selective Filters made with FPC Fabrication Technology", New Frontiers of Submillimeter Astronomy 2019, 湯田中, 長野, 2019年2月 (talk)
 5. **宇野慎介**, 竹腰達哉, 河野孝太郎, 陳家偉, 大島泰, 吉岡佳輔, 「FPC製造技術を用いたミリ波サブミリ波帯周波数選択フィルターの開発」, 第38回天文学に関する技術シンポジウム, 国立天文台三鷹, 2019年1月 (ポスター&ショートプレゼンテーション)
+
 ### 2018
 1. **宇野慎介**, 竹腰達哉, 河野孝太郎, 陳家偉, 大島泰, 吉岡佳輔, 「FPC製造技術を用いたミリ波サブミリ波帯周波数選択フィルターの開発」, 宇宙電波懇談会シンポジウム2018「電波天文学の将来サイエンス」, 国立天文台三鷹, 2018年12月 (ポスター講演)
 
