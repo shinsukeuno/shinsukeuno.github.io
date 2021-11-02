@@ -8,3 +8,16 @@ Ph.D. student, Institute of Astronomy, The University of Tokyo
 [Publications](https://shinsukeuno.github.io/publications.html)
 
 [Profile](https://shinsukeuno.github.io/profile.html)
+
+### Interests
+- (Sub-)Millimeter astronomy
+- Cosmic structure formation
+- Instrumentation, especially quasi-optical devices or metamaterials
+- Multi-color imaging
+
+### Skills
+- Electromagnetic simulations (tools: COMSOL Multiphysics, Ansys HFSS)
+- Design of millimeter-wave circuits
+- THz time-domain spectroscopy
+- Mac, Linux
+- Python
