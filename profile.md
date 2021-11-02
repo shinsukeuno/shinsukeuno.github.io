@@ -10,6 +10,7 @@
 ## Contact
 - Email: uno \_at\_ ioa.s.u-tokyo.ac.jp
 - Address: Institute of Astronomy, Graduate School of Science, The University of Tokyo, 2-21-1 Osawa, Mitaka, Tokyo 181-0015, Japan
-- [ORCID:0000-0003-2545-5901](https://orcid.org/0000-0003-2545-5901)
+
+[ORCID:0000-0003-2545-5901](https://orcid.org/0000-0003-2545-5901)
 
 [Return to top page](https://shinsukeuno.github.io)
