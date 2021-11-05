@@ -17,7 +17,7 @@ Ph.D. student, Institute of Astronomy, The University of Tokyo
 
 ### Skills
 - Electromagnetic simulations (tools: COMSOL Multiphysics, Ansys HFSS)
-- Design of millimeter-wave circuits
-- THz time-domain spectroscopy
+- Design of RF analog circuits
+- THz time-domain spectroscopy (THz-TDS)
 - Mac, Linux
 - Python
