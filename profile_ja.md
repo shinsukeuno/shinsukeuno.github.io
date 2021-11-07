@@ -2,10 +2,10 @@
 ## Position
 - Apr. 2021 - : 日本学術振興会 特別研究員 DC1
 
-## Education
-- Apr. 2021 - : Ph.D. student (Department of Astronomy, Graduate School of Science, the University of Tokyo) (Supervisor: Prof. Kotaro Kohno)
-- Apr. 2019 - Mar. 2021 : M.Sc. (Department of Astronomy, Graduate School of Science, the University of Tokyo) (Supervisor: Prof. Kotaro Kohno)
-- Mar. 2019 : B.Sc. (Department of Astronomy, School of Science, the University of Tokyo) (Supervisor: Prof. Kotaro Kohno)
+## 略歴
+- 2021年4月 - : 東京大学大学院理学系研究科天文学専攻 博士課程 (指導教員: 河野孝太郎教授)
+- 2019年4月 - 2021年3月 : 東京大学大学院理学系研究科天文学専攻 修士課程修了  (指導教員: 河野孝太郎教授)
+- 2019年3月 : 東京大学理学部天文学科 卒業 (指導教員: 河野孝太郎教授)
 
 ## Awards
 1. Feb. 2021 : The University of Tokyo, WINGS-FoPM Program, AY2020 Qualifying Examination Excellence Award
@@ -13,7 +13,7 @@
 
 ## Contact
 - Email: uno \_at\_ ioa.s.u-tokyo.ac.jp
-- Address: Institute of Astronomy, Graduate School of Science, The University of Tokyo, 2-21-1 Osawa, Mitaka, Tokyo 181-0015, Japan
+- Address: 〒181-0015 東京都三鷹市大沢 2-21-1 東京大学大学院理学系研究科附属天文学教育研究センター
 - Twitter: <a href="https://twitter.com/astronatsuno" target="_block">@astronatsuno</a>
 
 <a href="https://orcid.org/0000-0003-2545-5901" target="_blank">ORCID:0000-0003-2545-5901</a>
