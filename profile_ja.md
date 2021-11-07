@@ -7,11 +7,11 @@
 - 2019年4月 - 2021年3月 : 東京大学大学院理学系研究科天文学専攻 修士課程修了  (指導教員: 河野孝太郎教授)
 - 2019年3月 : 東京大学理学部天文学科 卒業 (指導教員: 河野孝太郎教授)
 
-## Awards
+## 受賞歴
 1. Feb. 2021 : The University of Tokyo, WINGS-FoPM Program, AY2020 Qualifying Examination Excellence Award
 2. Mar. 2019 : 東京大学 平成30年度 理学部学修奨励賞
 
-## Contact
+## 連絡先
 - Email: uno \_at\_ ioa.s.u-tokyo.ac.jp
 - Address: 〒181-0015 東京都三鷹市大沢 2-21-1 東京大学大学院理学系研究科附属天文学教育研究センター
 - Twitter: <a href="https://twitter.com/astronatsuno" target="_block">@astronatsuno</a>
