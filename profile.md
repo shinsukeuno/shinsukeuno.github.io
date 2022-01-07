@@ -21,4 +21,6 @@ Department of Astronomy, School of Science, the University of Tokyo (Supervisor:
 
 <a href="https://orcid.org/0000-0003-2545-5901" target="_blank">ORCID:0000-0003-2545-5901</a>
 
+<a href="https://researchmap.jp/shinsukeuno" target="_blank">researchmap:shinsukeuno</a>
+
 [Return to top page](https://shinsukeuno.github.io)
