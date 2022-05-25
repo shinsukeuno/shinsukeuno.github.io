@@ -22,7 +22,7 @@ Latest update: May. 25, 2022
 
 ## Domestic Conferences
 ### 2022
-1. **Shinsuke Uno**, Daisuke Taniguchi, Kazuya Yamazaki, Gaku Nishiyama, "Utility of the meteorological satellite Himawari-8 for astronomy: monitoring observation of stars", Japan Geoscience Union Meeting 2022, 幕張メッセ, 千葉, 2022年5月
+1. **Shinsuke Uno**, Daisuke Taniguchi, Kazuya Yamazaki, Gaku Nishiyama, "Utility of the meteorological satellite Himawari-8 for astronomy: monitoring observation of stars", Japan Geoscience Union Meeting 2022, 幕張メッセ, 千葉, 2022年5月 (口頭講演)
 2. **宇野慎介**, 大島泰, 竹腰達哉, 陳家偉, 井上修平, 長沼桐葉, 丹羽佑果, 「ミリ波サブミリ波帯広帯域平面型直交モード変換器の設計」, 第22回ミリ波サブミリ波受信機ワークショップ, オンライン, 2022年2月 (口頭講演)
 3. **宇野慎介**, 谷口大輔, 山崎一哉, 西山学, 「気象衛星を用いた天文学・惑星科学の開拓」, 第22回宇宙科学シンポジウム, オンライン, 2022年1月 (ポスター講演)
 
