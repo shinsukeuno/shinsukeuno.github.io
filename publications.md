@@ -1,5 +1,5 @@
 # Publications
-Latest update: Apr. 19, 2022
+Latest update: May. 25, 2022
 
 ## Refereed Paper
 1. Tatsuya Takekoshi, Kianhong Lee, Kah Wuy Chin, **Shinsuke Uno**, Toyo Naganuma, Shuhei Inoue, Yuka Niwa, Kazuyuki Fujita, Akira Kouchi, Shunichi Nakatsubo, Satoru Mima, Tai Oshima, "Material properties of a low contraction and resistivity silicon-aluminum composite for cryogenic detectors", *Journal of Low Temperature Physics* (2022 accepted) <a href="https://arxiv.org/abs/2204.08111" target="_blank">astro-ph</a>
@@ -22,8 +22,9 @@ Latest update: Apr. 19, 2022
 
 ## Domestic Conferences
 ### 2022
-1. **宇野慎介**, 大島泰, 竹腰達哉, 陳家偉, 井上修平, 長沼桐葉, 丹羽佑果, 「ミリ波サブミリ波帯広帯域平面型直交モード変換器の設計」, 第22回ミリ波サブミリ波受信機ワークショップ, オンライン, 2022年2月 (口頭講演)
-2. **宇野慎介**, 谷口大輔, 山崎一哉, 西山学, 「気象衛星を用いた天文学・惑星科学の開拓」, 第22回宇宙科学シンポジウム, オンライン, 2022年1月 (ポスター講演)
+1. **Shinsuke Uno**, Daisuke Taniguchi, Kazuya Yamazaki, Gaku Nishiyama, "Utility of the meteorological satellite Himawari-8 for astronomy: monitoring observation of stars", Japan Geoscience Union Meeting 2022, 幕張メッセ, 千葉, 2022年5月
+2. **宇野慎介**, 大島泰, 竹腰達哉, 陳家偉, 井上修平, 長沼桐葉, 丹羽佑果, 「ミリ波サブミリ波帯広帯域平面型直交モード変換器の設計」, 第22回ミリ波サブミリ波受信機ワークショップ, オンライン, 2022年2月 (口頭講演)
+3. **宇野慎介**, 谷口大輔, 山崎一哉, 西山学, 「気象衛星を用いた天文学・惑星科学の開拓」, 第22回宇宙科学シンポジウム, オンライン, 2022年1月 (ポスター講演)
 
 ### 2021
 1. **宇野慎介**, 谷口大輔, 山崎一哉, 西山学, 「気象衛星ひまわり8号の可視赤外多色撮像データを用いた天体測光とその応用」, 日本天文学会2021年秋季年会, オンライン, 2021年9月 (口頭講演)
