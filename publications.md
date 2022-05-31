@@ -2,7 +2,7 @@
 Latest update: May. 31, 2022
 
 ## Refereed Paper
-1. Daisuke Taniguchi, Kazuya Yamazaki, **Shinsuke Uno**, "The Great Dimming of Betelgeuse seen by the Himawari-8 meteorological satellite", *Nature Astronomy* (2022) <a href="https://doi.org/10.1038/s41550-022-01680-5" target="_blank">DOI</a>
+1. Daisuke Taniguchi, Kazuya Yamazaki, **Shinsuke Uno**, "The Great Dimming of Betelgeuse seen by the Himawari-8 meteorological satellite", *Nature Astronomy* (2022) <a href="https://arxiv.org/abs/2205.14165" target="_blank">astro-ph</a> <a href="https://doi.org/10.1038/s41550-022-01680-5" target="_blank">DOI</a>
 3. Tatsuya Takekoshi, Kianhong Lee, Kah Wuy Chin, **Shinsuke Uno**, Toyo Naganuma, Shuhei Inoue, Yuka Niwa, Kazuyuki Fujita, Akira Kouchi, Shunichi Nakatsubo, Satoru Mima, Tai Oshima, "Material properties of a low contraction and resistivity silicon-aluminum composite for cryogenic detectors", *Journal of Low Temperature Physics* (2022 accepted) <a href="https://arxiv.org/abs/2204.08111" target="_blank">astro-ph</a>
 4. **Shinsuke Uno**, Tatsuya Takekoshi, Tai Oshima, Keisuke Yoshioka, Kah Wuy Chin, Kotaro Kohno, "Demonstration of wideband metal mesh filters for submillimeter astrophysics using flexible printed circuits", *Applied Optics*, Vol. 59, Issue 13, p.p.4143-4150 (2020) <a href="https://ui.adsabs.harvard.edu/abs/2020ApOpt..59.4143U/abstract" target="_blank">ADS</a> <a href="https://arxiv.org/abs/2003.13240" target="_blank">astro-ph</a> <a href="https://doi.org/10.1364/AO.389605" target="_blank">DOI</a>
 
