@@ -1,7 +1,7 @@
 # Publications
-Latest update: September. 23, 2023
+Latest update: November 15, 2023
 
-## Refereed Paper
+## Refereed Papers
 1. Tatsuya Takekoshi, Kianhong Lee, Kah Wuy Chin, **Shinsuke Uno**, Toyo Naganuma, Shuhei Inoue, Yuka Niwa, Kazuyuki Fujita, Akira Kouchi, Shunichi Nakatsubo, Satoru Mima, Tai Oshima, "Material properties of a low contraction and resistivity silicon-aluminum composite for cryogenic detectors", *Journal of Low Temperature Physics* (2022) <a href="https://arxiv.org/abs/2204.08111" target="_blank">astro-ph</a> <a href="https://doi.org/10.1007/s10909-022-02795-9" target="_blank">DOI</a>
 4. Gaku Nishiyama, Noriyuki Namiki, Seiji Sugita, **Shinsuke Uno**, "Utilization of a meteorological satellite as a space telescope: the lunar mid-infrared spectrum as seen by Himawari-8", *Earth Planets Space*, 74, 105 (2022) <a href="https://doi.org/10.1186/s40623-022-01662-x" target="_blank">DOI</a>
 2. Daisuke Taniguchi, Kazuya Yamazaki, **Shinsuke Uno**, "The Great Dimming of Betelgeuse seen by the Himawari-8 meteorological satellite", *Nature Astronomy* (2022) <a href="https://arxiv.org/abs/2205.14165" target="_blank">astro-ph</a> <a href="https://doi.org/10.1038/s41550-022-01680-5" target="_blank">DOI</a>
@@ -55,7 +55,7 @@ Latest update: September. 23, 2023
 ### 2018
 1. **宇野慎介**, 竹腰達哉, 河野孝太郎, 陳家偉, 大島泰, 吉岡佳輔, 「FPC製造技術を用いたミリ波サブミリ波帯周波数選択フィルターの開発」, 宇宙電波懇談会シンポジウム2018「電波天文学の将来サイエンス」, 国立天文台三鷹, 2018年12月 (ポスター講演)
 
-## Grant
+## Grants
 1. <a href="https://www.konicaminoltastf.or.jp/" target="_blank">公益財団法人コニカミノルタ科学技術振興財団</a> 令和3年度画像科学奨励賞（連携賞）「「気象衛星を活用した時間領域恒星天文学」の創出」（代表者：谷口大輔）
 2. 科研費 特別研究員奨励費 21J20742 「サブミリ波帯多色観測による銀河団プラズマダイナミクスの解明」2021-2023年度 <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J20742/" target="_blank">KAKEN</a>
 
