@@ -1,5 +1,5 @@
 # Publications
-Latest update: November 15, 2023
+Latest update: November 30, 2023
 
 ## Refereed Papers
 1. Tatsuya Takekoshi, Kianhong Lee, Kah Wuy Chin, **Shinsuke Uno**, Toyo Naganuma, Shuhei Inoue, Yuka Niwa, Kazuyuki Fujita, Akira Kouchi, Shunichi Nakatsubo, Satoru Mima, Tai Oshima, "Material properties of a low contraction and resistivity silicon-aluminum composite for cryogenic detectors", *Journal of Low Temperature Physics* (2022) <a href="https://arxiv.org/abs/2204.08111" target="_blank">astro-ph</a> <a href="https://doi.org/10.1007/s10909-022-02795-9" target="_blank">DOI</a>
@@ -16,7 +16,8 @@ Latest update: November 15, 2023
 
 ## International Conferences
 ### 2023
-1. **Shinsuke Uno**, Tatsuya Takekoshi, Toyo Naganuma, Shuhei Inoue, Kianhong Lee, Kah Wuy Chin, Ryosuke Yamamura, Yuka Niwa, Kazuki Watanabe, Kazuyuki Fujita, Yuki Kimura, Shunichi Nakatsubo, Toshihiro Tsuzuki, Ryohei Kawabe, Kotaro Kohno, Tai Oshima, "GLTCAM: Concept of Multi-color Millimeter and Submillimeter Camera for the Greenland Telescope", The 20th International Conference on Low Temperature Detectors, Daejeon, Korea, July 2023 (poster)
+1. **Shinsuke Uno**, Kah Wuy Chin, Tai Oshima, Satoshi Ono, Takeshi Sakai, Akira Endo, Kenichi Karatsu, Jochem J. A. Baselmans, Tatsuya Takekoshi, Kotaro Kohno, Shuhei Inoue, Toyo Naganuma, Yuka Niwa, Ryosuke Yamamura, Kazuki Watanabe, "Design of on-chip lumped element bandpass filters for multichroic imaging in submillimeter astronomy", 36th International Symposium on Superconductivity, Wellington, New Zealand, November 2023 (oral, invited)
+2. **Shinsuke Uno**, Tatsuya Takekoshi, Toyo Naganuma, Shuhei Inoue, Kianhong Lee, Kah Wuy Chin, Ryosuke Yamamura, Yuka Niwa, Kazuki Watanabe, Kazuyuki Fujita, Yuki Kimura, Shunichi Nakatsubo, Toshihiro Tsuzuki, Ryohei Kawabe, Kotaro Kohno, Tai Oshima, "GLTCAM: Concept of Multi-color Millimeter and Submillimeter Camera for the Greenland Telescope", The 20th International Conference on Low Temperature Detectors, Daejeon, Korea, July 2023 (poster)
 
 ### 2019
 1. **Shinsuke Uno**, Tatsuya Takekoshi, Kah Wuy Chin, Kotaro Kohno, Tai Oshima, Keisuke Yoshioka, "Development of mm/submm Frequency Selective Filters made with FPC Fabrication Technology", 30th International Symposium on Space Terahertz Technology, Göteborg, Sweden, April 2019 (poster)
