@@ -1,5 +1,5 @@
 # Publications
-Latest update: November 30, 2023
+Latest update: March 6, 2024
 
 ## Refereed Papers
 1. Tatsuya Takekoshi, Kianhong Lee, Kah Wuy Chin, **Shinsuke Uno**, Toyo Naganuma, Shuhei Inoue, Yuka Niwa, Kazuyuki Fujita, Akira Kouchi, Shunichi Nakatsubo, Satoru Mima, Tai Oshima, "Material properties of a low contraction and resistivity silicon-aluminum composite for cryogenic detectors", *Journal of Low Temperature Physics* (2022) <a href="https://arxiv.org/abs/2204.08111" target="_blank">astro-ph</a> <a href="https://doi.org/10.1007/s10909-022-02795-9" target="_blank">DOI</a>
@@ -27,6 +27,9 @@ Latest update: November 30, 2023
 2. **Shinsuke Uno**, Tatsuya Takekoshi, Kah Wuy Chin, Kotaro Kohno, Tai Oshima, Keisuke Yoshioka, "Development of mm/submm Frequency Selective Filters made with FPC Fabrication Technology", 19th East Asia Submillimeter-wave Receiver Technology Workshop and 5th Riken-NICT Joint Workshop on Terahertz Technology, Kwansei Gakuin University, December 2018 (poster)
 
 ## Domestic Conferences
+### 2024
+1.  **宇野慎介**, "Detector design for a wideband multichroic camera in millimeter and submillimeter astronomy", 宇宙電波懇談会シンポジウム2024「電波天文分野のサイエンスロードマップ」, 国立天文台, 2024年3月 (口頭・招待講演)
+
 ### 2023
 1.  **宇野慎介**, 陳家偉, 井上修平, 河野孝太郎, 大島泰, 小野哲, 酒井剛, 長沼桐葉, 山村亮介, 竹腰達哉, 丹羽佑果, 渡邉一輝, 「ミリ波サブミリ波多色カメラに向けたオンチップ準集中定数フィルターの設計」, 日本天文学会2023年秋季年会, 名古屋大学, 2023年9月 (口頭講演)
 2.  **Shinsuke Uno**, "Utility of the meteorological satellite Himawari-8 as a space telescope", FoPM Symposium, 東京大学, 2023年2月 (口頭講演)
