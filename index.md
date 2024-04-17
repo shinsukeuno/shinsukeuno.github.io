@@ -1,5 +1,5 @@
-### Shinsuke UNO (宇野 慎介) 
-Ph.D. student, Institute of Astronomy, The University of Tokyo
+### Shinsuke UNO (宇野 慎介) Ph.D.
+Special Postdoctoral Researcher in the Terahertz Sensing and Imaging Research Team, Center for Advanced Photonics, RIKEN
 
 ![May-chan](May-chan.JPG)
 
@@ -18,7 +18,7 @@ Ph.D. student, Institute of Astronomy, The University of Tokyo
 - Multi-color imaging
 
 ### Skills
-- Electromagnetic simulations (tools: COMSOL Multiphysics, Ansys HFSS)
+- Electromagnetic simulations (tools: COMSOL Multiphysics, Ansys HFSS, Sonnet)
 - Design of RF analog circuits
 - THz time-domain spectroscopy (THz-TDS)
 - Mac, Linux
