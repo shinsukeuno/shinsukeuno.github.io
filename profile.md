@@ -17,7 +17,7 @@ Department of Astronomy, School of Science, the University of Tokyo (Supervisor:
 
 ## Contact
 - Email: shinsuke.uno \_at\_ riken.jp
-- Address: RIKEN Center for Advanced Photonics, 2-1 Hirosawa, Wako-shi, Saitama, 351-0198, Japan
+- Address: Terahertz Sensing and Imaging Research Team, RIKEN Center for Advanced Photonics, 2-1 Hirosawa, Wako-shi, Saitama, 351-0198, Japan
 - Twitter: <a href="https://twitter.com/astronatsuno" target="_block">@astronatsuno</a>
 
 <a href="https://orcid.org/0000-0003-2545-5901" target="_blank">ORCID:0000-0003-2545-5901</a>
