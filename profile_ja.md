@@ -27,7 +27,7 @@
 
 ## 連絡先
 - Email : shinsuke.uno \_at\_ riken.jp
-- 所在地 : 〒351-0198 埼玉県和光市広沢2-1 国立研究開発法人 理化学研究所 光量子工学研究センター
+- 所在地 : 〒351-0198 埼玉県和光市広沢2-1 国立研究開発法人 理化学研究所 光量子工学研究センター テラヘルツイメージング研究チーム
 - Twitter : <a href="https://twitter.com/astronatsuno" target="_block">@astronatsuno</a>
 
 <a href="https://orcid.org/0000-0003-2545-5901" target="_blank">ORCID:0000-0003-2545-5901</a>
