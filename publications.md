@@ -1,5 +1,5 @@
 # Publications
-Latest update: March 6, 2024
+Latest update: Sep 13, 2024
 
 ## Refereed Papers
 1. Shuhei Inoue, Kah Wuy Chin, **Shinsuke Uno**, Kotaro Kohno, Yuka Niwa, Toyo Naganuma, Ryosuke Yamamura, Kazuki Watanabe, Tatsuya Takekoshi, Tai Oshima, "A Design Method of an Ultra-Wideband and Easy-to-Array Magic-T: A 6-14 GHz Scaled Model for a mm/submm Camera", *Journal of Low Temperature Physics* (2024) <a href="https://arxiv.org/abs/2405.03919" target="_blank">astro-ph</a> <a href="https://doi.org/10.1007/s10909-024-03150-w" target="_blank">DOI</a>
@@ -29,10 +29,11 @@ Latest update: March 6, 2024
 
 ## Domestic Conferences
 ### 2024
-1.  **宇野慎介**, "Detector design for a wideband multichroic camera in millimeter and submillimeter astronomy", 宇宙電波懇談会シンポジウム2024「電波天文分野のサイエンスロードマップ」, 国立天文台, 2024年3月 (口頭・招待講演)
+1.  **宇野慎介**, 陳家偉, 井上修平, 河野孝太郎, 大島泰, 小野哲, 酒井剛, 長沼桐葉, 山村亮介, 遠藤光, 唐津謙一, Jochem J. A. Baselmans, 竹腰達哉, 丹羽佑果, 渡邉一輝, 「ミリ波多色MKIDの小型化に向けたオンチップ準集中定数フィルターの設計」, 日本天文学会2023年秋季年会, 名古屋大学, 2023年9月 (口頭講演)
+2.  **宇野慎介**, "Detector design for a wideband multichroic camera in millimeter and submillimeter astronomy", 宇宙電波懇談会シンポジウム2024「電波天文分野のサイエンスロードマップ」, 国立天文台, 2024年3月 (口頭・招待講演)
 
 ### 2023
-1.  **宇野慎介**, 陳家偉, 井上修平, 河野孝太郎, 大島泰, 小野哲, 酒井剛, 長沼桐葉, 山村亮介, 竹腰達哉, 丹羽佑果, 渡邉一輝, 「ミリ波サブミリ波多色カメラに向けたオンチップ準集中定数フィルターの設計」, 日本天文学会2023年秋季年会, 名古屋大学, 2023年9月 (口頭講演)
+1.  **宇野慎介**, 陳家偉, 井上修平, 河野孝太郎, 大島泰, 小野哲, 酒井剛, 長沼桐葉, 山村亮介, 竹腰達哉, 丹羽佑果, 渡邉一輝, 「ミリ波サブミリ波多色カメラに向けたオンチップフィルター回路の設計改良」, 日本天文学会2024年秋季年会, 関西学院大学, 2024年9月 (口頭講演)
 2.  **Shinsuke Uno**, "Utility of the meteorological satellite Himawari-8 as a space telescope", FoPM Symposium, 東京大学, 2023年2月 (口頭講演)
 
 ### 2022
