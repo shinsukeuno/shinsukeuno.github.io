@@ -1,5 +1,5 @@
 # Publications
-Latest update: Sep 13, 2024
+Latest update: Apr 1, 2025
 
 ## Refereed Papers
 1. Shuhei Inoue, Kah Wuy Chin, **Shinsuke Uno**, Kotaro Kohno, Yuka Niwa, Toyo Naganuma, Ryosuke Yamamura, Kazuki Watanabe, Tatsuya Takekoshi, Tai Oshima, "A Design Method of an Ultra-Wideband and Easy-to-Array Magic-T: A 6-14 GHz Scaled Model for a mm/submm Camera", *Journal of Low Temperature Physics* (2024) <a href="https://arxiv.org/abs/2405.03919" target="_blank">astro-ph</a> <a href="https://doi.org/10.1007/s10909-024-03150-w" target="_blank">DOI</a>
@@ -62,10 +62,12 @@ Latest update: Sep 13, 2024
 1. **宇野慎介**, 竹腰達哉, 河野孝太郎, 陳家偉, 大島泰, 吉岡佳輔, 「FPC製造技術を用いたミリ波サブミリ波帯周波数選択フィルターの開発」, 宇宙電波懇談会シンポジウム2018「電波天文学の将来サイエンス」, 国立天文台三鷹, 2018年12月 (ポスター講演)
 
 ## Grants
-1. <a href="https://www.konicaminoltastf.or.jp/" target="_blank">公益財団法人コニカミノルタ科学技術振興財団</a> 令和3年度画像科学奨励賞（連携賞）「「気象衛星を活用した時間領域恒星天文学」の創出」（代表者：谷口大輔）
-2. 科研費 特別研究員奨励費 21J20742 「サブミリ波帯多色観測による銀河団プラズマダイナミクスの解明」2021-2023年度 <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J20742/" target="_blank">KAKEN</a>
+1. 科研費 特別研究員奨励費 24J22911 「銀河団プラズマ観測に向けた単層型ミリ波サブミリ波多色検出器の開発」2024-2025年度 <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K22911/" target="_blank">KAKEN</a>
+2. <a href="https://www.konicaminoltastf.or.jp/" target="_blank">公益財団法人コニカミノルタ科学技術振興財団</a> 令和3年度画像科学奨励賞（連携賞）「「気象衛星を活用した時間領域恒星天文学」の創出」（代表者：谷口大輔）
+3. 科研費 特別研究員奨励費 21J20742 「サブミリ波帯多色観測による銀河団プラズマダイナミクスの解明」2021-2023年度 <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J20742/" target="_blank">KAKEN</a>
 
 ## Thesis
-1. 宇野慎介, 「ミリ波サブミリ波帯メタルメッシュフィルターの開発」, 東京大学大学院理学系研究科天文学専攻修士論文, 2021年
+1. Shinsuke Uno, "Wideband Multichroic Detector Architecture for Millimeter and Submillimeter Imaging Observations", Ph.D. thesis, The University of Tokyo, 2024. <a href="https://doi.org/10.15083/0002012664" target="_blank">DOI</a>
+2. 宇野慎介, 「ミリ波サブミリ波帯メタルメッシュフィルターの開発」, 東京大学大学院理学系研究科天文学専攻修士論文, 2021年
 
 [Return to top page](https://shinsukeuno.github.io)
