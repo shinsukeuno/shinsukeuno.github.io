@@ -1,5 +1,5 @@
 # Publications
-Latest update: Apr 14, 2025
+Latest update: Jun 10, 2025
 
 ## Refereed Papers
 1. Shuhei Inoue, Kah Wuy Chin, **Shinsuke Uno**, Kotaro Kohno, Yuka Niwa, Toyo Naganuma, Ryosuke Yamamura, Kazuki Watanabe, Tatsuya Takekoshi, Tai Oshima, "A Design Method of an Ultra-Wideband and Easy-to-Array Magic-T: A 6-14 GHz Scaled Model for a mm/submm Camera", *Journal of Low Temperature Physics* (2024) <a href="https://arxiv.org/abs/2405.03919" target="_blank">astro-ph</a> <a href="https://doi.org/10.1007/s10909-024-03150-w" target="_blank">DOI</a>
@@ -17,7 +17,8 @@ Latest update: Apr 14, 2025
 
 ## International Conferences
 ### 2025
-1. **Shinsuke Uno**, Kazuki Watanabe, Shuhei Inoue, Tatsuya Takekoshi, Tai Oshima, "Optical response of microwave kinetic inductance detectors coupled with millimeter-wave on-chip bandpass filters", International Symposium on Space Terahertz Technology 2025, Berlin, Germany, April 2025 (poster)
+1. **Shinsuke Uno**, Kah Wuy Chin, Tai Oshima, Satoshi Ono, Takeshi Sakai, Kazuki Watanabe, Shuhei Inoue, Tatsuya Takekoshi, Kotaro Kohno, "Design method of quasi-lumped element bandpass filters using superconducting coplanar waveguide for millimeter-wave multichroic imaging", Low Temperature Detectors Conference 2025, Santa Fe, USA, June 2025 (poster)
+2. **Shinsuke Uno**, Kazuki Watanabe, Shuhei Inoue, Tatsuya Takekoshi, Tai Oshima, "Optical response of microwave kinetic inductance detectors coupled with millimeter-wave on-chip bandpass filters", International Symposium on Space Terahertz Technology 2025, Berlin, Germany, April 2025 (poster)
 
 ### 2023
 1. **Shinsuke Uno**, Kah Wuy Chin, Tai Oshima, Satoshi Ono, Takeshi Sakai, Akira Endo, Kenichi Karatsu, Jochem J. A. Baselmans, Tatsuya Takekoshi, Kotaro Kohno, Shuhei Inoue, Toyo Naganuma, Yuka Niwa, Ryosuke Yamamura, Kazuki Watanabe, "Design of on-chip lumped element bandpass filters for multichroic imaging in submillimeter astronomy", 36th International Symposium on Superconductivity, Wellington, New Zealand, November 2023 (oral, invited)
