@@ -1,5 +1,5 @@
 # Publications
-Latest update: Sep 17, 2025
+Latest update: Nov 14, 2025
 
 ## Refereed Papers
 1. Gaku Nishiyama, Yudai Suzuki, **Shinsuke Uno**, Shohei Aoki, Tatsuro Iwanaka, Takeshi Imamura, Yuka Fujii, Thomas G. Müller, Makoto Taguchi, Toru Kouyama, Océane Barraud, Mario D’Amore, Jörn Helbert, Solmaz Adeli, Harald Hiesinger, "Temporal variation in the cloud-top temperature of Venus revealed by meteorological satellites", *Earth Planets Space*, 77, 91 (2025) <a href="https://doi.org/10.1186/s40623-025-02223-8" target="_blank">DOI</a>
@@ -34,15 +34,16 @@ Latest update: Sep 17, 2025
 
 ## Domestic Conferences
 ### 2025
-1.  **宇野慎介**, 渡邉一輝, 井上修平, 竹腰達哉, 大島泰, 「オンチップフィルターと結合した150 GHz帯MKIDの光学応答」, 日本天文学会2025年秋季年会, 海峡メッセ下関, 2025年9月 (ポスター&ショートプレゼンテーション)
+1. **宇野慎介**, 「ミリ波サブミリ波多色カメラGLTCAMの開発」, 第26回ミリ波サブミリ波受信機ワークショップ/2025年度理研-NICT合同テラヘルツワークショップ, 名古屋大学, 2025年11月 (口頭講演)
+2. **宇野慎介**, 渡邉一輝, 井上修平, 竹腰達哉, 大島泰, 「オンチップフィルターと結合した150 GHz帯MKIDの光学応答」, 日本天文学会2025年秋季年会, 海峡メッセ下関, 2025年9月 (ポスター&ショートプレゼンテーション)
 
 ### 2024
-1.  **宇野慎介**, 陳家偉, 井上修平, 河野孝太郎, 大島泰, 小野哲, 酒井剛, 長沼桐葉, 山村亮介, 遠藤光, 唐津謙一, Jochem J. A. Baselmans, 竹腰達哉, 丹羽佑果, 渡邉一輝, 「ミリ波多色MKIDの小型化に向けたオンチップフィルター回路の設計改良」, 日本天文学会2024年秋季年会, 関西学院大学, 2024年9月 (口頭講演)
-2.  **宇野慎介**, "Detector design for a wideband multichroic camera in millimeter and submillimeter astronomy", 宇宙電波懇談会シンポジウム2024「電波天文分野のサイエンスロードマップ」, 国立天文台, 2024年3月 (口頭・招待講演)
+1. **宇野慎介**, 陳家偉, 井上修平, 河野孝太郎, 大島泰, 小野哲, 酒井剛, 長沼桐葉, 山村亮介, 遠藤光, 唐津謙一, Jochem J. A. Baselmans, 竹腰達哉, 丹羽佑果, 渡邉一輝, 「ミリ波多色MKIDの小型化に向けたオンチップフィルター回路の設計改良」, 日本天文学会2024年秋季年会, 関西学院大学, 2024年9月 (口頭講演)
+2. **宇野慎介**, "Detector design for a wideband multichroic camera in millimeter and submillimeter astronomy", 宇宙電波懇談会シンポジウム2024「電波天文分野のサイエンスロードマップ」, 国立天文台, 2024年3月 (口頭・招待講演)
 
 ### 2023
-1.  **宇野慎介**, 陳家偉, 井上修平, 河野孝太郎, 大島泰, 小野哲, 酒井剛, 長沼桐葉, 山村亮介, 竹腰達哉, 丹羽佑果, 渡邉一輝, 「ミリ波サブミリ波多色カメラに向けたオンチップ準集中定数フィルターの設計」, 日本天文学会2023年秋季年会, 名古屋大学, 2023年9月 (口頭講演)
-2.  **Shinsuke Uno**, "Utility of the meteorological satellite Himawari-8 as a space telescope", FoPM Symposium, 東京大学, 2023年2月 (口頭講演)
+1. **宇野慎介**, 陳家偉, 井上修平, 河野孝太郎, 大島泰, 小野哲, 酒井剛, 長沼桐葉, 山村亮介, 竹腰達哉, 丹羽佑果, 渡邉一輝, 「ミリ波サブミリ波多色カメラに向けたオンチップ準集中定数フィルターの設計」, 日本天文学会2023年秋季年会, 名古屋大学, 2023年9月 (口頭講演)
+2. **Shinsuke Uno**, "Utility of the meteorological satellite Himawari-8 as a space telescope", FoPM Symposium, 東京大学, 2023年2月 (口頭講演)
 
 ### 2022
 1. **宇野慎介**, 陳家偉, 井上修平, 大島泰, 竹腰達哉, 長沼桐葉, 丹羽佑果, 「広帯域ミリ波サブミリ波帯多色カメラ用平面型直交偏波分離器の設計」, 日本天文学会2022年秋季年会, 新潟大学, 2022年9月 (口頭講演)
