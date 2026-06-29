@@ -1,5 +1,5 @@
 # Publications
-Latest update: Apr 9, 2026
+Latest update: Jun 29, 2026
 
 ## Refereed Papers
 1. Toyo Naganuma, **Shinsuke Uno**, Shuhei Inoue, Kazuki Watanabe, Tatsuya Takekoshi, Takeshi Sakai, Tai Oshima, "Broadband anti-reflection coating for sub-terahertz optics using dielectric multilayers", *Applied Optics*, 65, 8 (2026) <a href="https://doi.org/10.1364/AO.582598" target="_blank">DOI</a>
@@ -19,6 +19,9 @@ Latest update: Apr 9, 2026
 5. 陳家偉, 大島泰, 吉岡佳輔, 川邊良平, 小野哲, 酒井剛, 竹腰達哉, **宇野慎介**, 美馬覚, 成瀬雅人, 「ミリ波サブミリ波帯におけるコプレナー線路を用いた広帯域バンドパスフィルターの開発」, 第38回天文学に関する技術シンポジウム集録, 2019年3月
 
 ## International Conferences
+### 2026
+1. **Shinsuke Uno**, Kazuki Watanabe, Tai Oshima, Shuhei Inoue, Taiki Sato, Tatsuya Takekoshi, "Uniplanar design of millimeter-wave bandpass filters and microwave kinetic inductance detectors", 7th International Symposium on Microwave/Terahertz Science and Applications (MTSA 2026), Miyakojima, June 2026 (poster)
+
 ### 2025
 1. **Shinsuke Uno**, Kah Wuy Chin, Tai Oshima, Satoshi Ono, Takeshi Sakai, Kazuki Watanabe, Shuhei Inoue, Tatsuya Takekoshi, Kotaro Kohno, "Design method of quasi-lumped element bandpass filters using superconducting coplanar waveguide for millimeter-wave multichroic imaging", Low Temperature Detectors Conference 2025, Santa Fe, USA, June 2025 (poster)
 2. **Shinsuke Uno**, Kazuki Watanabe, Shuhei Inoue, Tatsuya Takekoshi, Tai Oshima, "Optical response of microwave kinetic inductance detectors coupled with millimeter-wave on-chip bandpass filters", International Symposium on Space Terahertz Technology 2025, Berlin, Germany, April 2025 (poster)
