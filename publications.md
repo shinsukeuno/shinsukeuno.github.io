@@ -1,5 +1,5 @@
 # Publications
-Latest update: Jun 29, 2026
+Latest update: Jun 30, 2026
 
 ## Refereed Papers
 1. **Shinsuke Uno**, Kah Wuy Chin, Tai Oshima, Satoshi Ono, Takeshi Sakai, Kazuki Watanabe, Shuhei Inoue, Tatsuya Takekoshi, Kotaro Kohno, "Design Method of Quasi-Lumped Element Bandpass Filters Using Superconducting Coplanar Waveguide for Millimeter-Wave Multichroic Imaging", *IEEE Transactions on Applied Superconductivity*, 36, 6 (2026) <a href="https://arxiv.org/abs/2606.29790" target="_blank">arxiv</a> <a href="https://doi.org/10.1109/TASC.2026.3707976" target="_blank">DOI</a>
