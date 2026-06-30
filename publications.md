@@ -78,9 +78,10 @@ Latest update: Jun 30, 2026
 1. **宇野慎介**, 竹腰達哉, 河野孝太郎, 陳家偉, 大島泰, 吉岡佳輔, 「FPC製造技術を用いたミリ波サブミリ波帯周波数選択フィルターの開発」, 宇宙電波懇談会シンポジウム2018「電波天文学の将来サイエンス」, 国立天文台三鷹, 2018年12月 (ポスター講演)
 
 ## Grants
-1. 科研費 研究活動スタート支援 24K22911 「銀河団プラズマ観測に向けた単層型ミリ波サブミリ波多色検出器の開発」2024-2025年度 <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K22911/" target="_blank">KAKEN</a>
-2. <a href="https://www.konicaminoltastf.or.jp/" target="_blank">公益財団法人コニカミノルタ科学技術振興財団</a> 令和3年度画像科学奨励賞（連携賞）「「気象衛星を活用した時間領域恒星天文学」の創出」（代表者：谷口大輔）
-3. 科研費 特別研究員奨励費 21J20742 「サブミリ波帯多色観測による銀河団プラズマダイナミクスの解明」2021-2023年度 <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J20742/" target="_blank">KAKEN</a>
+1. 科研費 若手研究 26K17206 「スケーラブルなサブミリ波超伝導集積回路による広視野多色観測の実現」2026-2028年度 <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K17206/" target="_blank">KAKEN</a>
+2. 科研費 研究活動スタート支援 24K22911 「銀河団プラズマ観測に向けた単層型ミリ波サブミリ波多色検出器の開発」2024-2025年度 <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K22911/" target="_blank">KAKEN</a>
+3. <a href="https://www.konicaminoltastf.or.jp/" target="_blank">公益財団法人コニカミノルタ科学技術振興財団</a> 令和3年度画像科学奨励賞（連携賞）「「気象衛星を活用した時間領域恒星天文学」の創出」（代表者：谷口大輔）
+4. 科研費 特別研究員奨励費 21J20742 「サブミリ波帯多色観測による銀河団プラズマダイナミクスの解明」2021-2023年度 <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J20742/" target="_blank">KAKEN</a>
 
 ## Thesis
 1. Shinsuke Uno, "Wideband Multichroic Detector Architecture for Millimeter and Submillimeter Imaging Observations", Ph.D. thesis, The University of Tokyo, 2024. <a href="https://doi.org/10.15083/0002012664" target="_blank">DOI</a>
