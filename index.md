@@ -1,5 +1,5 @@
 ### Shinsuke UNO (宇野 慎介) Ph.D.
-Special Postdoctoral Researcher in the Terahertz Sensing and Imaging Research Team, RIKEN Center for Advanced Photonics
+Assistant Professor in Research Institute of Electrical Communication, Tohoku University
 
 ![May-chan](May-chan.JPG)
 
