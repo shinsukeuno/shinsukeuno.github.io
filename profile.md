@@ -1,6 +1,7 @@
 # Profile
 ## Position
-- Since Apr. 2024 : Special Postdoctoral Researcher, RIKEN
+- Since Oct. 2026 : Assistant Professor, Research Institute of Electrical Communication, Tohoku University
+- Apr. 2024 - Sep. 2026 : Special Postdoctoral Researcher, RIKEN
 - Apr. 2021 - Mar. 2024 : JSPS Research Fellowship for Young Scientists DC1
 
 ## Education
@@ -17,7 +18,7 @@ Department of Astronomy, School of Science, the University of Tokyo (Supervisor:
 
 ## Contact
 - Email: shinsuke.uno \_at\_ riken.jp
-- Address: Terahertz Sensing and Imaging Research Team, RIKEN Center for Advanced Photonics, 2-1 Hirosawa, Wako-shi, Saitama, 351-0198, Japan
+- Address: Research Institute of Electrical Communication, Tohoku University, 2-1-1 Katahira, Aoba-ku, Sendai, Miyagi, 980-8577, Japan
 - Twitter: <a href="https://twitter.com/astronatsuno" target="_block">@astronatsuno</a>
 
 <a href="https://orcid.org/0000-0003-2545-5901" target="_blank">ORCID:0000-0003-2545-5901</a>
