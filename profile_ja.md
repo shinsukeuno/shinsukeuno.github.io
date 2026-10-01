@@ -27,7 +27,7 @@
 - 応用情報技術者試験 合格
 
 ## 連絡先
-- Email : shinsuke.uno \_at\_ riken.jp
+- Email : shinsuke.uno \_at\_ tohoku.ac.jp
 - 所在地 : 〒980-8577 宮城県仙台市青葉区片平2丁目1-1 東北大学 電気通信研究所 計算システム基盤研究部門 ナノフォトエレクトロニクス研究室
 - Twitter : <a href="https://twitter.com/astronatsuno" target="_block">@astronatsuno</a>
 
