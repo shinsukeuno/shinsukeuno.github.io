@@ -17,7 +17,7 @@ Department of Astronomy, School of Science, the University of Tokyo (Supervisor:
 2. Mar. 2019 : 東京大学 平成30年度 理学部学修奨励賞
 
 ## Contact
-- Email: shinsuke.uno \_at\_ riken.jp
+- Email: shinsuke.uno \_at\_ tohoku.ac.jp
 - Address: Research Institute of Electrical Communication, Tohoku University, 2-1-1 Katahira, Aoba-ku, Sendai, Miyagi, 980-8577, Japan
 - Twitter: <a href="https://twitter.com/astronatsuno" target="_block">@astronatsuno</a>
 
